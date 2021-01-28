@@ -16,7 +16,7 @@ spec:
               labels:
                   env: prod
                   team: team1
-                  tier:    frontend
+                  tier: frontend
         spec:
              containers:
              -   name: "webc1"
